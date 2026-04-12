@@ -8,7 +8,7 @@ from pyspark.sql.functions import (
 from pyspark.sql.types import IntegerType
 
 
-# Bloque comentado: Se deja como referencia de descarga, descompresión y carga en HDFS
+# referencia de descarga, descompresión y carga en HDFS
 """
 # 1. Descargar archivo original
 print("Descargando dataset...")
